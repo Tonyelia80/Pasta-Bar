@@ -1,8 +1,7 @@
 body {
-    background-color: gray;
+    background-color: #ccc;
     color: whitesmoke;
     font-size: 100%;
-    border-bottom: 2px solid black;
-    font-weight: normal;
-    padding-bottom: 5px;
+    
+    
 }

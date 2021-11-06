@@ -1,8 +1,17 @@
 body {
 
     background-color: grey;
+    font-family: arial;
+    font-size:18px; 
 }
 .title {
-    color: white;
+     color: #ffffff;
+    font-size: 50px;
+}
+   h1{ font-size:50px;
+    border-bottom: 2px solid black;
+    font-weight: normal;
+    padding-bottom: 5px;
 
 }
+   

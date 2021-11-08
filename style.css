@@ -16,5 +16,15 @@ body {
     p.title {
      font-size: 18px;
     }
- 
-   
+
+ .row{
+     background: url(/img/254529652_3163065677303096_1645375283673146901_n.jpg);
+     width: 135px;
+     height: 135;
+     display: table-cell;
+     vertical-align: middle;
+     text-align: center;
+     line-height: 135px;
+     margin: 0px;
+     padding: 0px;
+ }

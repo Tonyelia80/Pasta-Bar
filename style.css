@@ -24,14 +24,20 @@
 
  /* Intro*/
  .intro_title {
-
-
+    color: #fff;
+   text-align: center;
+   line-height: 1;
    font-size: 150px;
    font-weight: 700;
    text-transform: uppercase;
  }
 
+ .intro_iner{
+   width: 100%;
+   max-width: 880px;
+   margin: 0 auto;
 
+ }
 
 
 

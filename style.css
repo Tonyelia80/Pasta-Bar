@@ -3,7 +3,7 @@
     font-family: initial, sans-serif;
     font-size: 18px;
     line-height: 1.6;
-    color: #757272fa;
+    color: #fff;
     background-color: gray;
  *}
  *:before,
@@ -110,10 +110,14 @@
  .nav_link:hover{
     color:#333;
  }
- .nav_link:hover::after{
-opacity: 1;
+ .nav_link:hover:after,
+ .nav_link.active:after{
+ opacity: 1;
 
 
+ }
+ .nav_link.active{
+    color: #333;
  }
 
 
@@ -136,5 +140,21 @@ opacity: 1;
 
    background-color: #fff;
    color: #000;
+
+ }
+
+
+/*Section*/
+ .section{
+
+   padding: 80px 0;
+
+ }
+ .section_header{
+    margin-bottom: 40px;
+    width: 100%;
+   max-width: 950px;
+   margin: 0 auto;
+   text-align: center;
 
  }

@@ -23,6 +23,15 @@
  }
 
  /* Intro*/
+ .intro{
+   justify-content: center;
+   display: flex;
+   align-items: center;
+   height: 40em;
+   
+ }
+
+
  .intro_title {
     color: #fff;
    text-align: center;

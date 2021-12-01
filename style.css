@@ -124,6 +124,7 @@
  /*Btn*/
 
  .btn{
+    margin: 100px auto;
     display: inline-block;
     vertical-align: top;
     border: 3px solid #fff;
@@ -144,17 +145,52 @@
  }
 
 
-/*Section*/
+ /*Section*/
  .section{
 
    padding: 80px 0;
 
  }
  .section_header{
+    
     margin-bottom: 40px;
     width: 100%;
-   max-width: 950px;
-   margin: 0 auto;
-   text-align: center;
+    max-width: 950px;
+    margin: 0 auto;
+    text-align: center;
 
+
+ }
+ .section_suptitle{
+    margin: 30px;
+ }
+
+ .section_title{
+    margin:40px auto ;
+ }
+
+
+
+ /*about*/
+
+ .about{
+   display: flex;
+   justify-content: space-between;
+
+ }
+
+
+ .about_item{
+   width: 30%;
+
+
+
+ }
+
+
+ .about_img{
+    width: 300px;
+    height: 250px;
+    margin: 0 0;
+    
  }

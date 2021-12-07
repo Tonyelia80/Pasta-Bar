@@ -5,7 +5,7 @@
     line-height: 1.6;
     color: #fff;
     background-color: gray;
- *}
+ }
  *:before,
  *:after{
     box-sizing: border-box;
@@ -169,6 +169,8 @@
     margin:40px auto ;
  }
 
+ 
+
 
 
  /*about*/
@@ -193,4 +195,4 @@
     height: 250px;
     margin: 0 0;
     
- }
+  }

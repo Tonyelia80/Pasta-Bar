@@ -5,7 +5,11 @@
     line-height: 1.6;
     color: #fff;
     background-color: gray;
+main
  }
+
+ *}
+ main
  *:before,
  *:after{
     box-sizing: border-box;
@@ -124,7 +128,10 @@
  /*Btn*/
 
  .btn{
+main
     margin: 100px auto;
+
+ main
     display: inline-block;
     vertical-align: top;
     border: 3px solid #fff;
@@ -145,13 +152,18 @@
  }
 
 
+main
  /*Section*/
+
+/*Section*/
+ main
  .section{
 
    padding: 80px 0;
 
  }
  .section_header{
+main
     
     margin-bottom: 40px;
     width: 100%;
@@ -196,3 +208,11 @@
     margin: 0 0;
     
   }
+    margin-bottom: 40px;
+    width: 100%;
+   max-width: 950px;
+   margin: 0 auto;
+   text-align: center;
+
+ }
+ main

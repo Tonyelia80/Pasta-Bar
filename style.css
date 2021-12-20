@@ -5,11 +5,10 @@
     line-height: 1.6;
     color: #fff;
     background-color: gray;
-main
- }
+ 
 
  *}
- main
+ 
  *:before,
  *:after{
     box-sizing: border-box;
@@ -128,10 +127,10 @@ main
  /*Btn*/
 
  .btn{
-main
+
     margin: 100px auto;
 
- main
+ 
     display: inline-block;
     vertical-align: top;
     border: 3px solid #fff;
@@ -163,7 +162,6 @@ main
 
  }
  .section_header{
-main
     
     margin-bottom: 40px;
     width: 100%;
@@ -190,7 +188,7 @@ main
  .about{
    display: flex;
    justify-content: space-between;
-
+ 
  }
 
 
@@ -207,12 +205,11 @@ main
     height: 250px;
     margin: 0 0;
     
-  }
+  
     margin-bottom: 40px;
     width: 100%;
-   max-width: 950px;
-   margin: 0 auto;
-   text-align: center;
+    max-width: 950px;
+    margin: 0 auto;
+    text-align: center;
 
  }
- main

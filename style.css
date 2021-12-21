@@ -5,11 +5,10 @@
     line-height: 1.6;
     color: #fff;
     background-color: gray;
-main
- }
+ 
 
  *}
- main
+ 
  *:before,
  *:after{
     box-sizing: border-box;
@@ -128,10 +127,10 @@ main
  /*Btn*/
 
  .btn{
-main
+
     margin: 100px auto;
 
- main
+ 
     display: inline-block;
     vertical-align: top;
     border: 3px solid #fff;
@@ -152,24 +151,23 @@ main
  }
 
 
-main
+
+
  /*Section*/
 
-/*Section*/
- main
  .section{
-
-   padding: 80px 0;
+   margin: -50px;
+   padding: 6px 0;
 
  }
  .section_header{
-main
     
     margin-bottom: 40px;
     width: 100%;
     max-width: 950px;
     margin: 0 auto;
     text-align: center;
+    
 
 
  }
@@ -178,7 +176,7 @@ main
  }
 
  .section_title{
-    margin:40px auto ;
+    margin:60px auto ;
  }
 
  
@@ -190,13 +188,14 @@ main
  .about{
    display: flex;
    justify-content: space-between;
-
+ 
  }
 
 
  .about_item{
-   width: 30%;
-
+   width: 300px;
+   height: 300px;
+   margin: 50px;
 
 
  }
@@ -204,15 +203,9 @@ main
 
  .about_img{
     width: 300px;
-    height: 250px;
-    margin: 0 0;
+    height: 300px;
+    margin: 50px;;
     
-  }
-    margin-bottom: 40px;
-    width: 100%;
-   max-width: 950px;
-   margin: 0 auto;
-   text-align: center;
+  
 
  }
- main
